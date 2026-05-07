@@ -1,5 +1,5 @@
 - CEO and Founder of rovult.com
-- Extensive knowledge in Wordpress, AI (CLI, IDE, Openclaw, etc.)
+- Extensive knowledge in Wordpress, Framer, and AI (CLI, IDE, Openclaw, etc.)
 - Contact me at graham@rovult.com
 
 <!---
