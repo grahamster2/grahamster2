@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @grahamster2
-- 👀 I’m interested in ios achictecture 
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me grahamcalihan@outlook.com
+CEO and Founder of rovult.com
+Extensive knowledge in Wordpress, AI (CLI, IDE, Openclaw, etc.)
+Contact me at graham@rovult.com
 
 <!---
 grahamster2/grahamster2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
